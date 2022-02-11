@@ -72,6 +72,8 @@
     <Content Include="Média.aspx" />
     <Content Include="Primeira Letra.aspx" />
     <Content Include="Situação Aluno.aspx" />
+    <Content Include="resto.aspx" />
+    <Content Include="somar.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
